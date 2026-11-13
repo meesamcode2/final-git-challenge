@@ -1,2 +1,3 @@
 My Git and GitHub Final Challenge
 Learning Git version control
+Practicing commits and branches
